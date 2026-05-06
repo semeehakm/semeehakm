@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SEMEEHA K M</h1>
-<h3 align="center">💻 Python Full Stack Developer | Django Enthusiast</h3>
+<h3 align="center">💻 Aspiring Python Full Stack Developer | Django Enthusiast</h3>
 
 <p align="center">
   Passionate about building scalable and efficient web applications using Python and Django with clean and maintainable code.
